@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: bf0c6d40d4a8b426bbf3ee44749f7f3d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 259
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e9d2f63470647fc9fdc1e6271a81be
+      internalID: -1702142092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 244
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bebccb83b9741c38ee857b4a893a59
+      internalID: -1725286394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 242
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03a4161f7a1845f49005c947eff5cca
+      internalID: -1980380214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 139
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1883ab7b14ea548749614988480ec54e
+      internalID: -1651382228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 50
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095674b9c100048e690c0823c2e2e2e5
+      internalID: -1229550098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 170
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a964083e5b488ba362fbc502968a7
+      internalID: 630064177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 165
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23572700c6c48d197e9a68b2f13d19
+      internalID: 1235871469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 56
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf28876e0414f24986e83cb32e7894
+      internalID: 26162471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abba0194f00148a895615ebc3fd4c0d
+      internalID: -195813788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32062bed2a31497ebbbe423d27b6df5
+      internalID: 2058502992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 107
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce884152ddb4cc582a8ad1f88b3a08
+      internalID: 1884582219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a8010c1a824151b42b928ae12446f
+      internalID: 1138938343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715bf08d0135b4d19ace47fb6117463b
+      internalID: 383362120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409fc4de38a94c0d8c1bc86ff8228eb
+      internalID: 868586499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acbf4a0a4474f3eacca39535fcd55d
+      internalID: -1318224540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 47
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b3cdb2b1084ee692e90f653ef512f
+      internalID: -427185013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 53
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764472a38317940ab868231f5063db54
+      internalID: -886323271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 50
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d63e3bb89a4af59a85efa0a384ffa
+      internalID: 463593499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38947ddd8e3f34ba4b1a2199bc77aa42
+      internalID: 1965061888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_15: -427185013
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_1: -1725286394
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_6: 1235871469
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_10: 1884582219
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_0: -1702142092
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_17: 463593499
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_2: -1980380214
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_14: -1318224540
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_5: 630064177
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_13: 868586499
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_8: -195813788
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_9: 2058502992
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_4: -1229550098
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_18: 1965061888
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_16: -886323271
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_3: -1651382228
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_7: 26162471
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_11: 1138938343
+      1601.m00.i104.n010.P.c25.259592090_Video_game_explosion_animation_in_Pixel_Art._Explosion_animation_frames-removebg-preview (1)_12: 383362120
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
